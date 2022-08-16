@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0aeb4f41.css",
-    "main.js": "/static/js/main.5ece3b2c.js",
+    "main.css": "/static/css/main.38fd0bb5.css",
+    "main.js": "/static/js/main.42b6b91c.js",
     "static/media/bg.png": "/static/media/bg.bb9a4e5194f62b272c73.png",
     "static/media/project-markowecms.jpg": "/static/media/project-markowecms.7703b41b511eb335a5a2.jpg",
     "static/media/project-markowebookingsystem.jpg": "/static/media/project-markowebookingsystem.df1e1b600809017df975.jpg",
@@ -11,11 +11,11 @@
     "static/media/icon-github.svg": "/static/media/icon-github.705b4940f4298ef866b360a945192803.svg",
     "static/media/icon-linkedin.svg": "/static/media/icon-linkedin.9bc2dc25f0766d904bb33aadc0fb1c58.svg",
     "index.html": "/index.html",
-    "main.0aeb4f41.css.map": "/static/css/main.0aeb4f41.css.map",
-    "main.5ece3b2c.js.map": "/static/js/main.5ece3b2c.js.map"
+    "main.38fd0bb5.css.map": "/static/css/main.38fd0bb5.css.map",
+    "main.42b6b91c.js.map": "/static/js/main.42b6b91c.js.map"
   },
   "entrypoints": [
-    "static/css/main.0aeb4f41.css",
-    "static/js/main.5ece3b2c.js"
+    "static/css/main.38fd0bb5.css",
+    "static/js/main.42b6b91c.js"
   ]
 }
